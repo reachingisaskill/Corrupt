@@ -1,0 +1,9 @@
+
+.temp/
+assets
+Corrupt
+Corrupt.exe
+logs/
+bin/
+**/logs
+

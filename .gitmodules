@@ -1,0 +1,7 @@
+[submodule "libraries/logtastic"]
+	path = libraries/logtastic
+	url = git@github.com:reachingisaskill/logtastic-logging-library
+[submodule "libraries/regolith"]
+	path = libraries/regolith
+	url = git@github.com:reachingisaskill/regolith
+	branch = release
